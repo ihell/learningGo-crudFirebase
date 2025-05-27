@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go-firebase-crud/firebase"
-	"go-firebase-crud/handlers"
+	"learningGo-crudFirebase/firebase"
+	"learningGo-crudFirebase/handlers"
 	"log"
 	"net/http"
 
